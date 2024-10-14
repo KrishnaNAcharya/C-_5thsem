@@ -1,7 +1,7 @@
 // Write a C++ program to illustrate function overloading in adding the distance between objects.
 
 #include<iostream>
-    using namespace std;
+using namespace std;
 
 class Distance{
     public:

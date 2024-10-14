@@ -1,9 +1,10 @@
 /* Write a C++ program to create a class template to find the maximum of
 two numbers.The class template should work with different data types
-    such as int and float.The program should include a member function that
-        compares the two numbers and returns the maximum. */
+such as int and float.The program should include a member function that
+compares the two numbers and returns the maximum. */
+
 #include<iostream> 
-    using namespace std;
+using namespace std;
 
 template<typename T>
 class Max {

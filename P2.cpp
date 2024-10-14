@@ -1,6 +1,7 @@
 /*Write a C++ program to create an employee class containing following
 data members: employee name, employee number, basic, DA, IT, net
 salary and calculate the gross salary of the employee*/
+
 #include<iostream>
 #include<string>
 using namespace std;

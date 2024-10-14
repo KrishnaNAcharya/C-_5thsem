@@ -1,7 +1,8 @@
 //single and multiple inheritance example
 //Write a C++ program to demonstrate hybrid inheritance
+
 #include<iostream>
-    using namespace std;
+using namespace std;
 
 class vehicle{
     public:

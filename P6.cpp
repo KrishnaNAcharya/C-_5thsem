@@ -4,6 +4,7 @@ multiplication, and division on two operands. The program should accept
 different data types (such as int, float, and double) for the operands and
 demonstrate the use of the function template with at least two different
 data types*/
+
 #include<iostream>
 using namespace std;
 

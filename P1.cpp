@@ -1,6 +1,6 @@
 /* Write a C++ program to manage the details of a book in a library. Create
 an object of the class and call displayDetails() function to display the
-    book's information. */
+book's information. */
 
 #include<iostream>
 #include<string>

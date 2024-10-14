@@ -1,5 +1,6 @@
 /*Write a C++ program to overload unary operator as i) member function
 ii) friend function.*/
+
 #include<iostream>
 using namespace std;
 

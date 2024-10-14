@@ -1,8 +1,8 @@
 /*Write a C++ program using class to process shopping list for a
 departmental store. The list include the details such as the code number
 and price of each item and perform the operations like adding, deleting
-items to the list and printing the total value of a order.
-*/
+items to the list and printing the total value of a order.*/
+
 #include<iostream>
 using namespace std;
 
