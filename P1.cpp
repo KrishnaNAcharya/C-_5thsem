@@ -4,7 +4,7 @@ an object of the class and call displayDetails() function to display the
 
 #include<iostream>
 #include<string>
-    using namespace std;
+using namespace std;
 
 class Book {
  public:
