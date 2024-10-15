@@ -30,7 +30,7 @@ class Employee {
     }
 
     void calc(){
-       gross=basic+(da/100)-basic;
+       gross=basic+da;
        net=gross-it;
     }
     
