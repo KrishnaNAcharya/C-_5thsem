@@ -26,6 +26,7 @@ int main(){
 cout<<"Before Unary:"<<endl;
 Number n1(5);
 -n1;
+cout<<"After Unary:"<<endl;
 n1.display();
 return 0;
 }
