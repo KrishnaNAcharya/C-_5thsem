@@ -25,6 +25,7 @@ Number operator -(Number& n){
 int main(){
 cout<<"Before Unary:"<<endl;
 Number n1(5);
+n1.display();
 -n1;
 cout<<"After Unary:"<<endl;
 n1.display();
