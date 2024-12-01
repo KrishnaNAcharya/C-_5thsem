@@ -14,6 +14,5 @@ int main() {
         wait(NULL);
         printf("Child complete\n");
     }
-
     return 0;
 }
