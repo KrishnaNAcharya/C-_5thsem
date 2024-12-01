@@ -1,6 +1,6 @@
 #include <stdio.h>     // For printf and fprintf
 #include <unistd.h>    // For fork and execl
-
+#include <sys/wait.h>
 int main() {
     int pid;
     pid = fork();
