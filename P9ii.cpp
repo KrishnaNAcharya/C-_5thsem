@@ -15,7 +15,6 @@ class Number{
 };
 Number operator -(Number& n){
     return Number(-n.value);
-    return n;
 }
 int main(){
 cout<<"Before Unary:"<<endl;
