@@ -9,7 +9,7 @@ int main() {
         fprintf(stderr, "Fork failed\n");
         return 1;
     } else if (pid == 0) {
-        execl("/bin/ls", "ls", NULL);
+        execlp("/bin/ls", "ls", NULL);
     } else {
         wait(NULL);
         printf("Child complete\n");
