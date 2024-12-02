@@ -8,11 +8,9 @@ using namespace std;
 
 class shoppinglist{
     public:
-    int itemcount;
+    int itemcount=0;
     int code[100];
     float price[100];
-
-    shoppinglist():itemcount(0){}
 
     void additem(){
         cout<<"Enter item code:"<<endl;

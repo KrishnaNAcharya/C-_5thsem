@@ -1,4 +1,4 @@
-echo -n -r "Enter A Number: " n
+read -p "Enter A Number: " n
 arm=0
 temp=$n
 while [ "$n" -ne 0 ]
